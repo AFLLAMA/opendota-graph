@@ -2,3 +2,5 @@ data/
 .env
 prometheus.yaml
 __pycache__/
+uv.lock
+practice.egg-info/
